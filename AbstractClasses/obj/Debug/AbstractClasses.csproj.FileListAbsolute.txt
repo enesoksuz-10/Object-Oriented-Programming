@@ -1,0 +1,6 @@
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\AbstractClasses\obj\Debug\AbstractClasses.pdb

@@ -1,0 +1,6 @@
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\RecapDemo2\obj\Debug\RecapDemo2.pdb

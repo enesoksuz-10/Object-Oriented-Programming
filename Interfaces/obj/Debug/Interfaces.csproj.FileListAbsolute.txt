@@ -1,0 +1,6 @@
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Interfaces\obj\Debug\Interfaces.pdb

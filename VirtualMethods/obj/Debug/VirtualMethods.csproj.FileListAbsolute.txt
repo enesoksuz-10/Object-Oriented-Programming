@@ -1,0 +1,6 @@
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\VirtualMethods\obj\Debug\VirtualMethods.pdb
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache

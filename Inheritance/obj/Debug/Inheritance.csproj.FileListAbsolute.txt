@@ -1,0 +1,6 @@
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\YASAR\source\repos\OOP Öğreniyorum\Inheritance\obj\Debug\Inheritance.pdb
